@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a QA member.
 - 🌱 I’m currently learning Math & Deep Learning.
-- ✍🏻 I writes my own thoughts in my [personal blog](https://www.michaelbobo.top/).
+- ✍🏻 I writes my own thoughts in my [personal blog](https://jeffreygaoo.github.io/)
